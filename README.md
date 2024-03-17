@@ -1,4 +1,4 @@
-# Torque - Dynamic and Eco-Friendly Marketplace Platform 🌱
+# Torque - Dynamic and Eco-Friendly Marketplace 🌱
 
 Torque is a dynamic and eco-friendly marketplace platform aimed at college students. It is meticulously crafted using **Next.js**, **Node.js**, **AWS**, and **MongoDB**. The platform is designed to facilitate sustainable exchanges of books and various items, with a focus on minimizing waste and promoting environmental responsibility during graduation transitions.
 
